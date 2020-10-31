@@ -1,1 +1,1 @@
-# kth_smallest_integer
+# Algorithms
